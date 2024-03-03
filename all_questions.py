@@ -174,9 +174,10 @@ def question5():
     answers["(b)"] = {"Groups A and C"}
 
     # type: explanatory string (at least four words)
-    answers["(b) explain"] = "Merging groups A and C because they have the smallest complete link distance,indicating the greatest similarity between their furthest points."
+    answers["(b) explain"] = "Merging groups A and C because they have the smallest complete link distance, indicating the greatest similarity between their furthest points."
 
     return answers
+
 
 
 

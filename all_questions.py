@@ -165,7 +165,7 @@ def question5():
     answers = {}
 
     # type: set
-    answers["(a)"] = {'A' , B'}
+    answers["(a)"] = {'A' , 'B'}
 
     # type: explanatory string (at least four words)
     answers["(a) explain"] = "Merging groups A and B because they have the smallest single link distance, indicating close proximity in their nearest points."

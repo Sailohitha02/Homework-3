@@ -165,13 +165,13 @@ def question5():
     answers = {}
 
     # type: set
-    answers["(a)"] = {'A' , 'B'}
+    answers["(a)"] = {'Group A' , 'Group B'}
 
     # type: explanatory string (at least four words)
     answers["(a) explain"] = "Merging groups A and B because they have the smallest single link distance, indicating close proximity in their nearest points."
 
     # type: set
-    answers["(b)"] = {'A' , 'C'}
+    answers["(b)"] = {'Group A' , 'Group C'}
 
     # type: explanatory string (at least four words)
     answers["(b) explain"] = "Merging groups A and C because they have the smallest complete link distance, indicating the greatest similarity between their furthest points."

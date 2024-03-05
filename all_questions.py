@@ -325,7 +325,7 @@ def question9():
     answers["(b)"] = ["Partitional", "Exclusive", "Complete"]
 
     # type: list
-    answers["(c)"] = ["Partitional", "Fuzzy", "Complete"]
+    answers["(c)"] = ["Partitional", "Fuzzy", "Partial"]
 
     # type: list
     answers["(d)"] = ["Hierarchical", "Overlapping", "Partial"]
